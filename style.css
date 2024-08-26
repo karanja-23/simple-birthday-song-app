@@ -1,0 +1,32 @@
+#my-container{
+    background-color: darkgrey;
+    width: 70vh;
+    height: 70vh;
+    margin-right: auto;
+    margin-left: auto;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+.my-username{
+    text-align: center;
+    padding-top: 20px;
+}
+label{
+    padding-right: 5px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#btn{
+    font-weight: bold;
+    background-color: grey;
+    color: rgb(10, 31, 31);
+    text-align: center;
+}
+.my-song{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
